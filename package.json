@@ -1,0 +1,28 @@
+{
+  "name": "hygen-tweak",
+  "version": "1.0.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Hygen generators based on the iOS Tweak project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainyx/hygen-tweak.git"
+  },
+  "keywords": [
+    "hygen",
+    "generator",
+    "tweak"
+  ],
+  "author": "rainyx <atrainyx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainyx/hygen-tweak/issues"
+  },
+  "homepage": "https://github.com/rainyx/hygen-tweak#readme"
+}
