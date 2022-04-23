@@ -1,6 +1,6 @@
 {
-  "name": "hygen-tweak",
-  "version": "1.0.0",
+  "name": "@rainyx/hygen-tweak",
+  "version": "1.0.1",
   "private": false,
   "publishConfig": {
     "access": "public"
